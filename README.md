@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Prueba del PrepCourse-Henry de como clonar un repositorio git hub a la nube.
+Prueba del PrepCourse-Henry de como clonar un repositorio github a la nube.
